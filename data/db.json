@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "lorem ipsum...",
+            "author": "Hamza",
+            "id": 1
+        },
+        {
+            "title": "Test",
+            "body": "lorem ipsum...",
+            "author": "John",
+            "id": 2
+        }
+    ]
+}
