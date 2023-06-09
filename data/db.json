@@ -1,16 +1,16 @@
 {
-    "blogs": [
-        {
-            "title": "My First Blog",
-            "body": "lorem ipsum...",
-            "author": "Hamza",
-            "id": 1
-        },
-        {
-            "title": "Test",
-            "body": "lorem ipsum...",
-            "author": "John",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My Blog",
+      "body": "Test blog description",
+      "author": "Hamza",
+      "id": 3
+    },
+    {
+      "title": "My Blog",
+      "body": "Test blog description 2",
+      "author": "Hamza",
+      "id": 4
+    }
+  ]
 }
